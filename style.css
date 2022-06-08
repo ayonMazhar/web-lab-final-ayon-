@@ -1,0 +1,41 @@
+table {
+  border: 1px solid red;
+  width: 100%;
+}
+tr{
+border : 2px solid white;
+
+margin-top: 0px;
+ margin-bottom: 00px;
+ margin-right: 200px;
+ margin-left: 200px;
+
+}
+.aa{
+  background-color: grey;
+  font-size: 200%;
+}
+.bb{background-color: red;
+font-size: 200%;
+margin-top: 0px;
+ margin-bottom: 00px;
+ margin-right: 0px;
+ margin-left: 900px;
+}
+
+.bbb{background-color: tomato;
+font-size: 200%;
+margin-top: 0px;
+ margin-bottom: 00px;
+ margin-right: 0px;
+ margin-left: 900px;
+}
+.bbbb{background-color: yellow;
+font-size: 200%;
+margin-top: 0px;
+ margin-bottom: 00px;
+ margin-right: 0px;
+ margin-left: 900px;}
+
+.cc{font-size: 300%;
+align-items: center;}
